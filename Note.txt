@@ -1,0 +1,3 @@
+*you can't add or edit products untill you login or resigist
+*if their is only one product in the category -> no product will be shown in similar product part (last requirement)
+*if you press on on one of the suggested products it will open. 
